@@ -133,9 +133,6 @@ for(int i =0; i<N; i++) {ofss[i] <<p[i].x.x<<" "<<p[i].x.y<<" "<<p[i].v.x<<" "<<
    	cout << "xcom: " << xcom << " ycom: " << ycom <<endl;
    }
  }
-
-
-
 }
 
 
